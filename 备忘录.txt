@@ -1,0 +1,4 @@
+请使用 animation 制作一颗会动的红心，做完后截图到班级群即可。
+
+参考 http://js.jirengu.com/hosug/1/edit?html,css,output
+me http://js.jirengu.com/hutifigedi/1/edit
